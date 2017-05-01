@@ -13,7 +13,7 @@ Vanilla LF2 + Custom AIs + Multiserver Support + Custom Survivals
 * Silent wma files.
 
 ### data folder:
-* No changes.
+* ad\*.txt files are emptied.
 
 ### bg folder:
 * No changes.
