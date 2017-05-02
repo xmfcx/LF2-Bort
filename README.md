@@ -1,6 +1,14 @@
 # LF2-Bort
 Vanilla LF2 + Custom AIs + Multiserver Support + Custom Survivals
 
+## Todo
+* Add existing good ais to the project.
+* Add new survival options.
+  * Figure how lf2 handles stage ids using CE.
+  * Figure how Som1Lse's dll project works.
+  * Figure how lf2 menu code works.
+  * Change lf2 menu code with dll.
+
 ## Initial Changes from Vanilla to Bort
 
 ### dlls folder(new):
@@ -14,6 +22,7 @@ Vanilla LF2 + Custom AIs + Multiserver Support + Custom Survivals
 
 ### data folder:
 * ad\*.txt files are emptied.
+* stage.dat is being remade.
 
 ### bg folder:
 * No changes.
