@@ -6,6 +6,7 @@ Vanilla LF2 + Custom AIs + Multiserver Support + Custom Survivals
 * Add new survival options.
   * Figure how lf2 handles stage ids using CE.
   * Figure how Som1Lse's dll project works.
+    * Convert codeblocks project into cmake.
   * Figure how lf2 menu code works.
   * Change lf2 menu code with dll.
 
